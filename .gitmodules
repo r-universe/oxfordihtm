@@ -1,4 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/oxfordihtm/oxfordihtm.r-universe.dev
 	branch = HEAD
+[submodule "codigo"]
+	path = codigo
+	url = https://github.com/OxfordIHTM/codigo
