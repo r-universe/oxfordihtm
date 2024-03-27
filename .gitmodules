@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/oxfordihtm/oxfordihtm.r-universe.dev
 	branch = HEAD
+[submodule "africalaws"]
+	path = africalaws
+	url = https://github.com/OxfordIHTM/africalaws
 [submodule "codigo"]
 	path = codigo
 	url = https://github.com/OxfordIHTM/codigo
