@@ -5,6 +5,9 @@
 [submodule "africalaws"]
 	path = africalaws
 	url = https://github.com/OxfordIHTM/africalaws
+[submodule "aurora"]
+	path = aurora
+	url = https://github.com/OxfordIHTM/aurora
 [submodule "codigo"]
 	path = codigo
 	url = https://github.com/OxfordIHTM/codigo
