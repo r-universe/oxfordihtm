@@ -11,6 +11,9 @@
 [submodule "codigo"]
 	path = codigo
 	url = https://github.com/OxfordIHTM/codigo
+[submodule "oxcgrt"]
+	path = oxcgrt
+	url = https://github.com/OxfordIHTM/oxcgrt
 [submodule "oxthema"]
 	path = oxthema
 	url = https://github.com/OxfordIHTM/oxthema
