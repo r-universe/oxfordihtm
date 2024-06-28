@@ -8,6 +8,9 @@
 [submodule "aurora"]
 	path = aurora
 	url = https://github.com/OxfordIHTM/aurora
+[submodule "codeditr"]
+	path = codeditr
+	url = https://github.com/OxfordIHTM/codeditr
 [submodule "codigo"]
 	path = codigo
 	url = https://github.com/OxfordIHTM/codigo
