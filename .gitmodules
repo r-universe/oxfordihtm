@@ -14,6 +14,10 @@
 [submodule "codigo"]
 	path = codigo
 	url = https://github.com/OxfordIHTM/codigo
+[submodule "deposits"]
+	path = deposits
+	url = https://github.com/ropenscilabs/deposits
+	registered = false
 [submodule "oxcgrt"]
 	path = oxcgrt
 	url = https://github.com/OxfordIHTM/oxcgrt

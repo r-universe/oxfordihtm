@@ -4,5 +4,11 @@
     "url": "https://github.com/OxfordIHTM/codigo",
     "via": ["codeditr"],
     "from": "codeditr"
+  },
+  {
+    "package": "deposits",
+    "url": "https://github.com/ropenscilabs/deposits",
+    "via": ["pactr"],
+    "from": "pactr"
   }
 ]
