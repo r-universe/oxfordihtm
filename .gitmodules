@@ -20,3 +20,6 @@
 [submodule "oxthema"]
 	path = oxthema
 	url = https://github.com/OxfordIHTM/oxthema
+[submodule "pactr"]
+	path = pactr
+	url = https://github.com/OxfordIHTM/pactr
