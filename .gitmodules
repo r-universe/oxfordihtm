@@ -18,6 +18,9 @@
 	path = deposits
 	url = https://github.com/ropenscilabs/deposits
 	registered = false
+[submodule "naruto"]
+	path = naruto
+	url = https://github.com/OxfordIHTM/naruto
 [submodule "oxcgrt"]
 	path = oxcgrt
 	url = https://github.com/OxfordIHTM/oxcgrt
