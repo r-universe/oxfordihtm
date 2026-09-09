@@ -26,3 +26,6 @@
 [submodule "pactr"]
 	path = pactr
 	url = https://github.com/OxfordIHTM/pactr
+[submodule "roinc"]
+	path = roinc
+	url = https://github.com/OxfordIHTM/roinc
